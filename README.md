@@ -7,8 +7,6 @@
 [![Instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.instagram.com/aguiarxvii/)
 
 ![Aguiar GitHub stats](https://github-readme-stats.vercel.app/api?username=Aguiiiar&show_icons=true&theme=github_dark)
-#
-
 <br>
 
 ## Technologies I study and use in my daily life:
