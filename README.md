@@ -1,5 +1,6 @@
+<div align="center"><img src="https://i.imgur.com/28vA9Tf.png" alt="img-dev" width="40%" height="auto"></div>
 
-![Dev](https://i.imgur.com/28vA9Tf.png)
+
 <h1 align="center">Hi 👋, I'm Aguiar</h1>
 
 ### Connect with me:
