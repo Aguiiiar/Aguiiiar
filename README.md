@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.imgur.com/28vA9Tf.png" alt="img-dev" width="40%" height="auto"></div>
+<div align="center"><img src="https://i.imgur.com/28vA9Tf.png" alt="img-dev" width="25%" height="auto"></div>
 
 
 <h1 align="center">Hi 👋, I'm Aguiar</h1>
