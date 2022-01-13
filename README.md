@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aguiar</h1>
 
+![Dev](https://i.imgur.com/28vA9Tf.png)
+<h1 align="center">Hi 👋, I'm Aguiar</h1>
 
 ### Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/753249580669337622)
