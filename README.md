@@ -1,7 +1,10 @@
-<div align="center"><img src="https://i.imgur.com/28vA9Tf.png" alt="img-dev" width="15%" height="auto"></div>
-
-
-<h1 align="center">Hi 👋, I'm Aguiar</h1>
+```java
+public class App {
+    public static void main(String[] args) {
+        System.out.print("Hi, I'm Aguiar 🙂");
+    }
+}
+```
 
 ### Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/753249580669337622)
