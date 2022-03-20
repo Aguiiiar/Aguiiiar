@@ -1,8 +1,9 @@
 ```java
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("Hi, I'm Aguiar 🙂");
+        System.out.println("Hi, I'm Aguiar 👋");
         System.out.println("Studying Software Engineering - UTFPR DOIS VIZINHOS");
+        System.out.println("Future Fullstack developer👨‍💻");
     }
 }
 ```
