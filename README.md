@@ -4,7 +4,7 @@
 const person: object = {
     name: "Max Santos Aguiar",
     age: 19,
-    about: "Me chamo Max, tenho 19 anos. Quero me tornar um desenvolvedor Back-end com a tecnologia Nodejs, estudo há 2 anos e sempre buscando aprender cada vez mais.",
+    about: "Me chamo Max, tenho 19 anos. Quero me tornar um desenvolvedor Back-end com a tecnologia Nodejs!",
     skills: ["Javascript", "Typescript", "NodeJs", "PostgreSQL", "MongoDB", "Jest", "Git"]
 }
 ```
