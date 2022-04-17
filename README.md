@@ -25,7 +25,3 @@ const person: object = {
 
 ![JEST](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<br><br>
-
-![Aguiar GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiiiar&theme=blue-green)
