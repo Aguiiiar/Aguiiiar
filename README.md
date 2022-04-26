@@ -2,10 +2,11 @@
 
 ```ts
 const person: object = {
-    name: "Max Santos Aguiar",
+    name: 'Max dos Santos Aguiar',
+    nickname: 'Aguiar'
     age: 19,
-    about: "Me chamo Max, tenho 19 anos. Quero me tornar um desenvolvedor Back-end com a tecnologia Nodejs!",
-    skills: ["Javascript", "Typescript", "NodeJs", "PostgreSQL", "MongoDB", "Jest", "Git"]
+    about: 'Me chamo Max, tenho 19 anos. Quero me tornar um desenvolvedor Back-end com a tecnologia Nodejs!',
+    skills: ['Javascript', 'Typescript', 'NodeJs', 'PostgreSQL', 'MongoDB', 'Jest', 'Git']
 }
 ```
 
