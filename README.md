@@ -6,7 +6,8 @@ const person: object = {
     nickname: 'Aguiar'
     age: 19,
     about: 'Me chamo Max, tenho 19 anos. Quero me tornar um desenvolvedor Back-end com a tecnologia Nodejs!',
-    skills: ['Javascript', 'Typescript', 'NodeJs', 'PostgreSQL', 'MongoDB', 'Jest', 'Git']
+    skills: ['Javascript', 'Typescript', 'NodeJs', 'PostgreSQL', 'MongoDB', 'Jest', 'Git'],
+    platformOs: 'Big Linux'
 }
 ```
 
