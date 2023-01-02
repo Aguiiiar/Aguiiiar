@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá 👋
+<img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" />
 
-<!--
-**Aguiiiar/Aguiiiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor FullStack.
 
-Here are some ideas to get you started:
+#### Sou apenas um jovem com um grande sonho de me aventurar por esse vasto mundo da tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Front-end:
+[![My Skills front](https://skillicons.dev/icons?i=js,ts,react,next,styledcomponents,bootstrap)](https://skillicons.dev)
+
+#### Back-end:
+[![My Skills back](https://skillicons.dev/icons?i=nodejs,express,jest,java,spring)](https://skillicons.dev)
+
+#### Banco de Dados:
+[![My Skills db](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+
+#### Ferramentas e IDE's
+[![My ides](https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab)](https://skillicons.dev)
