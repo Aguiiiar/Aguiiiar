@@ -17,3 +17,8 @@
 
 #### Ferramentas e IDE's
 [![My ides](https://skillicons.dev/icons?i=vscode,figma,git,github,gitlab)](https://skillicons.dev)
+
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguiiiar&hide=javascript,css,scss,html&theme=tokyonight)
