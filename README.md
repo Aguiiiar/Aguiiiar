@@ -10,7 +10,7 @@
 [![My Skills front](https://skillicons.dev/icons?i=js,ts,react,next,styledcomponents,bootstrap)](https://skillicons.dev)
 
 #### Back-end:
-[![My Skills back](https://skillicons.dev/icons?i=nodejs,express,jest,java,spring)](https://skillicons.dev)
+[![My Skills back](https://skillicons.dev/icons?i=nodejs,express,jest,nest)](https://skillicons.dev)
 
 #### Banco de Dados:
 [![My Skills db](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
