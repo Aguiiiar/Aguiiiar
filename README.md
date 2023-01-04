@@ -1,5 +1,4 @@
 ### Olá 👋
-![gif](https://media.tenor.com/BrNtIejIcXUAAAAC/pixel-art.gif)
 
 **`Desenvolvedor Back-end NodeJs.`**
 
