@@ -5,7 +5,7 @@
 #### Sou apenas um jovem com um grande sonho de me aventurar por esse vasto mundo da tecnologia.
 
 #### 🧰 Linguagens e ferramentas:
-[![My Skills back](https://skillicons.dev/icons?i=nodejs,express,nest,jest,postgres,mongodb,vscode,git,github,gitlab,docker)](https://skillicons.dev)
+[![My Skills back](https://skillicons.dev/icons?i=nodejs,express,nest,jest,postgres,sqlite,mongodb,vscode,git,github,gitlab,docker)](https://skillicons.dev)
 
 <br />
 <a href="https://github.com/Aguiiiar">
