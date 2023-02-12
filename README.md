@@ -11,5 +11,5 @@
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/753249580669337622/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devaguiar14@gmail.com)
 
-
+<br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aguiiiar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
