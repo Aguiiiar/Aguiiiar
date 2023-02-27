@@ -2,8 +2,11 @@
 
 #### um jovem com um grande sonho de me aventurar por esse vasto mundo da tecnologia.    
 
-#### 📚 Habilidades:
-[![habilidades](https://skillicons.dev/icons?i=nodejs,express,vue,postgres,redis,docker&perline=3)](https://skillicons.dev)
+#### ⭐Habilidades: 
+[![habilidades](https://skillicons.dev/icons?i=nodejs,express,postgres&perline=3)](https://skillicons.dev)
+
+#### 📚 Estudando:
+[![habilidades](https://skillicons.dev/icons?i=cs,vue&perline=3)](https://skillicons.dev)
 
 
 #### 🔗 Contatos:
