@@ -1,6 +1,8 @@
 ### Olá 👋
 
-#### um jovem com um grande sonho de me aventurar por esse vasto mundo da tecnologia.    
+#### um jovem com um grande sonho de me aventurar por esse vasto mundo da tecnologia. 
+
+![banner](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 
 #### ⭐Habilidades: 
 [![habilidades](https://skillicons.dev/icons?i=nodejs,express,postgres&perline=3)](https://skillicons.dev)
