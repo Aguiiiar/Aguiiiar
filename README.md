@@ -8,7 +8,7 @@
 [![habilidades](https://skillicons.dev/icons?i=nodejs,express,jest,postgres,mongodb,git&perline=3)](https://skillicons.dev)
 
 #### 📚 Estudando:
-[![estudos](https://skillicons.dev/icons?i=nestjs,angular&perline=3)](https://skillicons.dev)
+[![estudos](https://skillicons.dev/icons?i=java,vue&perline=3)](https://skillicons.dev)
 
 #### 🔗 Contatos:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devaguiar/)
