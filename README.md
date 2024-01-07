@@ -2,13 +2,11 @@
 
 #### Um jovem com um grande sonho de se aventurar por esse vasto mundo da tecnologia. 
 
-![banner](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
-
 #### ⭐Habilidades: 
 [![habilidades](https://skillicons.dev/icons?i=nodejs,express,jest,postgres,mongodb,git,html,css&perline=3)](https://skillicons.dev)
 
 #### 📚 Estudando:
-[![estudos](https://skillicons.dev/icons?i=nest,vue,docker&perline=3)](https://skillicons.dev)
+[![estudos](https://skillicons.dev/icons?i=ruby,docker&perline=3)](https://skillicons.dev)
 
 #### 🔗 Contatos:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devaguiar/)
