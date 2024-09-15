@@ -2,8 +2,11 @@
 
 #### Um jovem com um grande sonho de se aventurar por esse vasto mundo da tecnologia. 
 
-#### ⭐Habilidades: 
-[![habilidades](https://skillicons.dev/icons?i=nodejs,express,jest,postgres,mongodb,git,html,css&perline=3)](https://skillicons.dev)
+#### ⭐ Habilidades: 
+[![habilidades](https://skillicons.dev/icons?i=js,ts,nodejs,express,nest,jest,py,fastapi,postgres,git&perline=3)](https://skillicons.dev)
+
+#### ⚙️ Ferramentas:
+[![habilidades](https://skillicons.dev/icons?i=vscode,pycharm&perline=3)](https://skillicons.dev)
 
 #### 🔗 Contatos:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxaguiar/)
