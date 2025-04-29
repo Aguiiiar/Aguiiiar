@@ -8,4 +8,4 @@ skills:
 #
 tools:
 
-[![My tools](https://skillicons.dev/icons?i=vscode,git,docker,phpstorm&perline=4)](https://skillicons.dev)
+[![My tools](https://skillicons.dev/icons?i=vscode,git,docker,phpstorm,pystorm,postman,linux,ubuntu&perline=3)](https://skillicons.dev)
